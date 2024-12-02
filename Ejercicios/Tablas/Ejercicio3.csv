@@ -1,0 +1,6 @@
+Caso de Prueba,Descripción,Entrada (Número de Cuenta, Monto, Código de Seguridad),Clases Cubiertas
+C1,"Todos los datos válidos","1234567890, 5000, 123","E1 E5 E8"
+C2,"Número de cuenta inválido (menos de 10 dígitos)","123456789, 5000, 123","E2"
+C3,"Monto de transferencia inválido (mayor a 10,000)","1234567890, 15000, 123","E7"
+C4,"Código de seguridad inválido (menos de 3 dígitos)","1234567890, 5000, 12","E9"
+C5,"Número de cuenta inválido (no numérico)","123456789A, 5000, 123","E4"
