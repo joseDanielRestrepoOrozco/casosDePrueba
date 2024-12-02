@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52c985e6-7664-441c-bf73-019b938621bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/Tablas/Ejercicio1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicios/Tablas/Ejercicio2.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Ejercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/Ejercicio1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/Tablas/Ejercicio2.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +31,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for Ejercicio1.TestValidarProducto.test_caso_c9_precio_no_es_numerico.executor": "Run",
+    "Python tests.Python tests in Ejercicio1.py.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests in Ejercicio1.py">
+  <component name="RunManager" selected="Python tests.Python tests for Ejercicio1.TestValidarProducto.test_caso_c9_precio_no_es_numerico">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CasosDePrueba" />
       <option name="ENV_FILES" value="" />
@@ -60,6 +61,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for Ejercicio1.TestValidarProducto.test_caso_c9_precio_no_es_numerico" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="CasosDePrueba" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Ejercicio1.TestValidarProducto.test_caso_c9_precio_no_es_numerico&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in Ejercicio1.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="CasosDePrueba" />
       <option name="ENV_FILES" value="" />
@@ -77,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Ejercicio1.TestValidarProducto.test_caso_c9_precio_no_es_numerico" />
         <item itemvalue="Python tests.Python tests in Ejercicio1.py" />
       </list>
     </recent_temporary>

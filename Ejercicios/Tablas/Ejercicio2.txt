@@ -1,7 +1,0 @@
-Caso de Prueba	Descripción	                                        Entrada (Placa, Año, Tipo)	   Clases Cubiertas
-C1	            Todos los datos válidos	                            "ABC123", 2000, "automóvil"	   E1 E4 E7       
-C2	            Placa inválida (menos de 6 caracteres)	            "ABC12", 2000, "automóvil"	   E2         
-C3	            Placa inválida (más de 7 caracteres)	            "ABC12345", 2000, "automóvil"  E3           
-C4	            Año de fabricación inválido (menor a 1980)	        "ABC123", 1979, "automóvil"	   E5          
-C5	            Año de fabricación inválido (mayor al año actual)	"ABC123", 2024, "automóvil"	   E6         
-C6	            Tipo de vehículo inválido	                        "ABC123", 2000, "bicicleta"	   E8          
