@@ -1,0 +1,7 @@
+Caso de Prueba,Descripción,Nombre de Usuario,Correo Electrónico,Edad
+C1,"Todos los datos válidos",usuario123,user@example.com,25
+C2,"Nombre de usuario inválido (menos de 5 caracteres)",usr,user@example.com,25
+C3,"Nombre de usuario inválido (más de 20 caracteres)",usuario_muy_largo_12345,user@example.com,25
+C4,"Correo electrónico inválido",usuario123,userexample.com,25
+C5,"Edad inválida (menor de 13)",usuario123,user@example.com,10
+C6,"Edad inválida (mayor de 120)",usuario123,user@example.com,150

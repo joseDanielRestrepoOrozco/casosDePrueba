@@ -1,6 +1,23 @@
 import unittest
 from datetime import datetime
 
+"""
+Clases de Equivalencia
+
+Cantidad de habiataciones:
+E1: Válido (1 <= cantidad <= 5).
+E2: Inválido (<1).
+E3: Inválido (>5).
+
+fecha de reserva:
+E4: Válido (fecha actual o posterior).
+E5: Inválido (fecha pasada)
+
+Código de Seguridad:
+E6: Válido (1 <= dígitos <= 30).
+E7: Inválido (<1).
+E8: Inválido (>30).
+"""
 
 def reservar_habitaciones(cantidad, fecha, estadia):
     errores = []
